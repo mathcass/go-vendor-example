@@ -1,0 +1,10 @@
+hash: ec9517efe3273842e86cdbf16b38c15dcfd45138c1c4c7d5a18617c0437f30c6
+updated: 2017-05-11T22:01:57.575493905-04:00
+imports:
+- name: golang.org/x/net
+  version: c9b681d35165f1995d6f3034e61f8761d4b90c99
+- name: google.golang.org/appengine
+  version: 150dc57a1b433e64154302bdc40b6bb8aefa313a
+  subpackages:
+  - log
+testImports: []
